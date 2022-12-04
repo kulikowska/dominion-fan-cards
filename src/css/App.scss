@@ -1,0 +1,20 @@
+body {
+    margin : 0;
+    background : #111;
+    color : #eee;
+    font-family: 'Roboto Slab', serif;
+}
+header {
+    display : flex;
+    align-items : center;
+    padding-left : 20px;
+    height : 70px;
+    background : #0d3f46;
+}
+.welcome {
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    height : calc(100vh - 70px);
+    font-size : 2rem;
+}
