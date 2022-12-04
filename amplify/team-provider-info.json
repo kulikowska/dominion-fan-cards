@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dominionfancards-dev-203731-authRole",
+      "UnauthRoleArn": "arn:aws:iam::786699741231:role/amplify-dominionfancards-dev-203731-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::786699741231:role/amplify-dominionfancards-dev-203731-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-dominionfancards-dev-203731-deployment",
+      "UnauthRoleName": "amplify-dominionfancards-dev-203731-unauthRole",
+      "StackName": "amplify-dominionfancards-dev-203731",
+      "StackId": "arn:aws:cloudformation:us-west-1:786699741231:stack/amplify-dominionfancards-dev-203731/df2a9740-7131-11ed-bb58-06d7968370d7",
+      "AmplifyAppId": "d7vrdphxvtwq1"
+    },
+    "categories": {
+      "function": {
+        "getcards": {
+          "deploymentBucketName": "amplify-dominionfancards-dev-203731-deployment",
+          "s3Key": "amplify-builds/getcards-436e54556e6567544f51-build.zip"
+        }
+      }
+    }
+  }
+}
